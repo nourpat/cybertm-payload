@@ -1,0 +1,15 @@
+{
+  "createdAt": "2025-01-23T18:49:40.449Z",
+  "items": [
+    "src",
+    "public",
+    "supabase",
+    "package.json",
+    "package-lock.json",
+    "vite.config.js",
+    "tailwind.config.js",
+    "postcss.config.js",
+    ".env"
+  ],
+  "version": "1.4.0"
+}
